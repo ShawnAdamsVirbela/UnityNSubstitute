@@ -3,5 +3,9 @@
   "displayName": "NSubstitute",
   "version": "4.2.2",
   "unity": "2019.1",
-  "description": "NSubstitute built for framework netstandard2.0, with a modified PackageReference version for System.Threading.Tasks.Extensions. For more info about NSubstitute visit https://nsubstitute.github.io/"
+  "description": "NSubstitute built for framework netstandard2.0, with a modified PackageReference version for System.Threading.Tasks.Extensions. For more info about NSubstitute visit https://nsubstitute.github.io/",
+  "author": {
+    "name": "Virbela",
+    "url": "https://www.virbela.com"
+  }
 }
