@@ -3,7 +3,7 @@
   "displayName": "NSubstitute",
   "version": "4.2.2",
   "unity": "2019.1",
-  "description": "NSubstitute built for netstandard2.0 framework.\n\nREQUIRED: Open the Samples dropdown below and select Import to move the required dlls into your Assets/Samples folder.\nAfterwards these assemblies are free to be modified or removed as desired for the project. For example, due to the existence of first party dlls such as System.Threading.Tasks.Extensions it may be necessary to remove them if the project already has copies elsewhere.",
+  "description": "NSubstitute built for netstandard2.0 framework.\n\nREQUIRED: Open the Samples dropdown below and select Import to move the required dlls into your Assets/Samples folder.\nAfterwards these assemblies are free to be modified or removed as necessary for the project. For example, due to the existence of first party dlls such as System.Threading.Tasks.Extensions it may be necessary to remove them if the project already has copies elsewhere.",
   "author": {
     "name": "Virbela",
     "url": "https://www.virbela.com"
@@ -12,7 +12,7 @@
     {
       "displayName": "Required DLLs",
       "description": "Imports the required dlls as modifiable Assets.",
-      "path": "Plugins~/PluginsVirbelaTesting"
+      "path": ".Samples/PluginsVirbelaTesting"
     }
   ]
 }
