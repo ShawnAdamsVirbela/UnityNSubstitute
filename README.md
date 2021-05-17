@@ -14,10 +14,12 @@ It is an attempt to satisfy our craving for a mocking library with a succinct sy
 Perfect for those new to testing, and for others who would just like to to get their tests written with less noise and fewer lambdas.
 
 ## <a id="installation">Installation</a>
-You can install via git url by adding these entries in your **manifest.json**
-```json
+1. You install via git url by adding these entries in your **manifest.json**, or by using the Package Manager window in the Unity Editor.
+```
 "com.virbela.nsubstitute": "https://github.com/ShawnAdamsVirbela/UnityNSubstitute.git"
 ```
+2. Open the package's "Samples" dropdown in the editor, and press Import.
+   ![packageManager.jpg](./~Documentation/packageManager.jpg)
 
 ## Getting help
 
